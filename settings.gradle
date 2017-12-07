@@ -1,1 +1,1 @@
-include ':app', ':materialui'
+include ':app', ':materialui', ':matrialuipro'

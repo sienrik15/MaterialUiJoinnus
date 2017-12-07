@@ -8,3 +8,5 @@
 .externalNativeBuild
 /app/build
 /materialui/build
+/materialuipro/build
+
